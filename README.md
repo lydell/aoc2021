@@ -1,3 +1,9 @@
+# Moved!
+
+Moved to https://github.com/lydell/advent-of-code/tree/main/2021
+
+---
+
 # Advent of Code 2021
 
 Written in Fish (3.3.1).
